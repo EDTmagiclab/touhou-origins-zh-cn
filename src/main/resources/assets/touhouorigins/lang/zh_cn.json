@@ -217,6 +217,16 @@
   "power.touhouorigins.my_apocalypse.name": "地底的人造太阳",
   "power.touhouorigins.my_apocalypse.description": "只要你的衰变计没有达到百分之五十，你就可以启动你的特殊能力，进入地底太阳状态。向所有方向发射火焰，并以你周围的巨大爆炸结束。之后，你的衰变计将完全填满。",
 
+  "origin.touhouorigins.amanojaku.name": "鬼邪天",
+  "origin.touhouorigins.amanojaku.description": "天邪鬼是一种扭曲的妖怪，它们热爱唱反调，代表着矛盾与反常",
+
+  "power.touhouorigins.turnabout.name": "逆转",
+  "power.touhouorigins.turnabout.description": "The J",
+  "power.touhouorigins.this_side_down.name": "这边向下",
+  "power.touhouorigins.this_side_down.description": "The J",
+  "power.touhouorigins.mirror_movement.name": "镜像移动",
+  "power.touhouorigins.mirror_movement.description": "The J",
+  
   "touhouorigins.subtitles.entity.fairy.heal": "妖精重生",
   "touhouorigins.subtitles.entity.fairy.fly": "妖精飞起来",
   "touhouorigins.subtitles.entity.kappa.camouflage_activate": "光学迷彩启动",
@@ -235,6 +245,9 @@
   "touhouorigins.subtitles.entity.hell_raven.decay": "裂变值已满",
   "touhouorigins.subtitles.entity.hell_raven.alert": "警铃大作",
   "touhouorigins.subtitles.entity.hell_raven.shoot": "地狱鸦射击",
+  "touhouorigins.subtitles.entity.generic.flip": "有东西在翻转",
+  "touhouorigins.subtitles.entity.amanojaku.flip": "天邪鬼的逆袭",
+  "touhouorigins.subtitles.entity.generic.reverse": "什么东西翻转了",
 
   "death.attack.sun": "%1$s 被蒸发了",
   "death.attack.sun.player": "%1$s 在 %2$s 的战斗中被蒸发了",
