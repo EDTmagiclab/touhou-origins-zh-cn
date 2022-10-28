@@ -235,6 +235,16 @@
   "touhouorigins.subtitles.entity.hell_raven.decay": "裂变值已满",
   "touhouorigins.subtitles.entity.hell_raven.alert": "警铃大作",
   "touhouorigins.subtitles.entity.hell_raven.shoot": "地狱鸦射击",
+  
+  "origin.touhouorigins.amanojaku.name": "鬼邪天",
+  "origin.touhouorigins.amanojaku.description": "天邪鬼是一种扭曲的妖怪，它们热爱唱反调，代表着矛盾与反常",
+
+  "power.touhouorigins.turnabout.name": "逆转",
+  "power.touhouorigins.turnabout.description": "The J",
+  "power.touhouorigins.this_side_down.name": "这边向下",
+  "power.touhouorigins.this_side_down.description": "The J",
+  "power.touhouorigins.mirror_movement.name": "镜像移动",
+  "power.touhouorigins.mirror_movement.description": "The J",
 
   "death.attack.sun": "%1$s 被蒸发了",
   "death.attack.sun.player": "%1$s 在 %2$s 的战斗中被蒸发了",
